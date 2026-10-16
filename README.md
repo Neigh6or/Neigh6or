@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 🤠
+
+My name is Seth, and I'm teaching myself GitHub so that I can organize projects I will add on.
+My dream is to get good at one thing and one thing only (for right now). I'd rather be a master of one than a jack of all trades.
+
+- 🌱 I'm currently interested in learning more Python, and I want to use this GitHub account to display all the projects I think of then write into reality.
+- 🟣 My notetaking app of choice is Obsidian, so I'm familiar with writing in Markdown. The community and the different plugins that align with my interests inspire me to create.
+- 🐉 I'm a Dungeons & Dragons mechanics and roleplay enthusiast. I want to build a repo that will be all about the worldbuilding I've done.
+- 🔒 I'm locked in for learning Python & SQL for right now.
+
+<!-- <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" /> -->
 
 <!--
 **Neigh6or/Neigh6or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
